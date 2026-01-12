@@ -22,12 +22,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Hello! My name is Mingyi Li.
 
 I am currently a second-year Computer Science PhD student at Northeastern University, working with Prof. Maitraye Das as part of the Technology, Equity, and Accessibility [(TEA)](https://tealab.sites.northeastern.edu/) lab. Prior to that, I was a Computer Science and Cognitive Science student at UC San Diego.
 
 My research interests lie in the intersection of <span class="accent-text">Human-Computer Interaction</span>, <span class="accent-text">Accessibility</span>, and <span class="accent-text">Creativity Support</span>. My recent work applies AI/ML techniques to make digital creative tools and content more accessible for blind and low vision people.
-
-
-
-
