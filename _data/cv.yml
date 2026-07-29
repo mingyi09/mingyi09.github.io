@@ -8,6 +8,11 @@
     - name: Languages
       value: English, German
 
+- title: Google Scholar
+  type: list
+  contents:
+    - <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+
 - title: Education
   type: time_table
   contents:
